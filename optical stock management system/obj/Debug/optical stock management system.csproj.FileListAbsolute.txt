@@ -1,0 +1,12 @@
+C:\Users\DELL\Desktop\mahela\optical stock management system\optical stock management system\bin\Debug\optical stock management system.exe.config
+C:\Users\DELL\Desktop\mahela\optical stock management system\optical stock management system\bin\Debug\optical stock management system.exe
+C:\Users\DELL\Desktop\mahela\optical stock management system\optical stock management system\bin\Debug\optical stock management system.pdb
+C:\Users\DELL\Desktop\mahela\optical stock management system\optical stock management system\obj\Debug\optical stock management system.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\mahela\optical stock management system\optical stock management system\obj\Debug\optical_stock_management_system.Form1.resources
+C:\Users\DELL\Desktop\mahela\optical stock management system\optical stock management system\obj\Debug\optical_stock_management_system.Properties.Resources.resources
+C:\Users\DELL\Desktop\mahela\optical stock management system\optical stock management system\obj\Debug\optical stock management system.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\mahela\optical stock management system\optical stock management system\obj\Debug\optical stock management system.exe
+C:\Users\DELL\Desktop\mahela\optical stock management system\optical stock management system\obj\Debug\optical stock management system.pdb
+C:\Users\DELL\Desktop\mahela\optical stock management system\optical stock management system\obj\Debug\optical_stock_management_system.Stock.resources
+C:\Users\DELL\Desktop\mahela\optical stock management system\optical stock management system\obj\Debug\optical_stock_management_system.Add_Items.resources
+C:\Users\DELL\Desktop\mahela\optical stock management system\optical stock management system\obj\Debug\optical_stock_management_system.issue_items.resources
